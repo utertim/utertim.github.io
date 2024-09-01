@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://utertim.github.io/sitemap.html.gz
+Sitemap: https://utertim.github.io/app/sitemap.html.gz
+Sitemap: https://utertim.github.io/assets/sitemap.html.gz
+Sitemap: https://utertim.github.io/css/sitemap.html.gz
+Sitemap: https://utertim.github.io/includes/sitemap.html.gz
+Sitemap: https://utertim.github.io/item/sitemap.html.gz
+Sitemap: https://utertim.github.io/src/sitemap.html.gz
